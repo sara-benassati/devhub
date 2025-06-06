@@ -62,7 +62,7 @@ console.log(chalk.green.inverse('E questo è verde con sfondo invertito!'));
   * **GitHub Packages:** GitHub stesso offre un registro di pacchetti. È un'alternativa a npmjs.com, spesso usata dalle aziende per gestire pacchetti privati (non pubblici) o come backup.
   * **Repository Privati:** Le grandi aziende spesso hanno i loro registri di pacchetti privati, accessibili solo dall'interno della loro rete, per condividere codice sensibile tra i team.
 
-### Riepilogo del Professore: Dove e Come Cercare
+### Riepilogo: Dove e Come Cercare
 
 | Fonte | Descrizione | Quando usarla |
 | :--- | :--- | :--- |
